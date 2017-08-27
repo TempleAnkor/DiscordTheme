@@ -2914,6 +2914,13 @@ polyline[stroke*="#7289da"]{stroke:var(--main-color) !important;}
 
 .message-group:not(.compact) .avatar-large[style*="346053776622485514"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="346053776622485514"] ~ .member-inner .member-username .member-username-inner::after{content:"Kid";color:#fff;background:#FF9B00;border-radius:3px;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:14px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow:rgba(0, 0, 0, 0.4) 1px 1px 1px;}
 
+.message-group:not(.compact) .avatar-large[style*="159356683187912704"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="159356683187912704"] ~ .member-inner .member-username .member-username-inner::after{content:"Shellebrity";color:#fff;background:#FF9B00;border-radius:3px;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:14px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow:rgba(0, 0, 0, 0.4) 1px 1px 1px;}
+
+.message-group:not(.compact) .avatar-large[style*="145632968835203072"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="145632968835203072"] ~ .member-inner .member-username .member-username-inner::after{content:"Nig";color:#fff;background:#FF9B00;border-radius:3px;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:14px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow:rgba(0, 0, 0, 0.4) 1px 1px 1px;}
+
+.message-group:not(.compact) .avatar-large[style*="221385066738089984"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="221385066738089984"] ~ .member-inner .member-username .member-username-inner::after{content:"Nig";color:#fff;background:#FF9B00;border-radius:3px;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:14px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow:rgba(0, 0, 0, 0.4) 1px 1px 1px;}
+
+
 .ui-tab-bar-item.selected:hover{background-color:var(--hover-color) !important;}
 
 .ui-tab-bar-item.selected{transition:background-color .1s linear;}
