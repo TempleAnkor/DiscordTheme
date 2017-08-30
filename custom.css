@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Satisfy);
 :root {
-	--version-content: "5.0"
+	--version-content: "5.1"
 }
 /* Version Displayed */
 
@@ -8,7 +8,7 @@
 
 .version:after{content:var(--version-content);display:block;font-size:14px;font-weight:700;color:#43B581;}
 
-.ui-standard-sidebar-view #bd-settingspane-container .content-column.default .bda-slist::before{content: "Temple v" var(--version-content) "\A \A Theme Options:\A \A - Show/Hide Blocked messages\A - Loading Theme Animation\A - Remove spacing between messages \A - Remove Channel Mentions Bar \A - Remove Server Mentions Bar\A - Remove Embed Enlarging\A - Christmas Things\A - Normal Guild/Server Icon Sizes\A - Circle Avatars\A - Revert bottom to default look\A - Minimized Channel Members\A - Background Around Messages\A - Minimized Servers\A - Nitro Tag \A \A Go to discord.io/mrrobot to show love and support! <3"!important;}
+.ui-standard-sidebar-view #bd-settingspane-container .content-column.default .bda-slist::before{content: "Quiet v" var(--version-content) "\A \A Theme Options:\A \A - Show/Hide Blocked messages\A - Loading Theme Animation\A - Remove spacing between messages \A - Remove Channel Mentions Bar \A - Remove Server Mentions Bar\A - Remove Embed Enlarging\A - Christmas Things\A - Normal Guild/Server Icon Sizes\A - Circle Avatars\A - Revert bottom to default look\A - Minimized Channel Members\A - Background Around Messages\A - Minimized Servers\A - Nitro Tag \A \A Go to discord.io/mrrobot to show love and support! <3"!important;}
 
 .need-help-modal .header h1::after{content:"Quiet v" var(--version-content);color:#fff;font-weight:700;font-size:250%;z-index:11;position:absolute;width:200%;left: 0px;margin-left: -45px;top: 16px;font-family:Satisfy;text-shadow:1px 1px 1px rgba(0, 0, 0, 0.4);}
 
@@ -18,7 +18,7 @@
 
 .themedescription:before{display:block;font-size:14px;height:15px;color:#3ddcb1;font-weight:700;content:"Updates are automatic. Just restart Discord to get the latest version.";}
 
-body:before{content:"Thanks for using Quiet Modified by Temple!";z-index:1000000000000000000000000;color:#fff;background:var(--main-color);top:0px;left:50%;position:absolute;border-radius:5px;padding:5px 15px;-webkit-transform:translate(-50%, -100%);transform:translate(-50%, -100%);-webkit-animation:version 3s ease;animation:version 3s ease;-webkit-animation-delay:4s;animation-delay:4s;}
+body:before{content:"Thanks for using Quiet!";z-index:1000000000000000000000000;color:#fff;background:var(--main-color);top:0px;left:50%;position:absolute;border-radius:5px;padding:5px 15px;-webkit-transform:translate(-50%, -100%);transform:translate(-50%, -100%);-webkit-animation:version 3s ease;animation:version 3s ease;-webkit-animation-delay:4s;animation-delay:4s;}
 
 body,span:not(.spinner-item){-webkit-font-smoothing:antialiased;-webkit-backface-visibility:hidden;}
 
@@ -4035,3 +4035,51 @@ code{background-color: #19191b!important;background-image: linear-gradient(#1212
 .tooltip.tooltip-brand.tooltip-right:after{border-right-color: var(--main-color);}
 
 .popout.popout-top-left{top: 0px !important;}
+
+.theme-light .scroller-wrap .scroller.messages::-webkit-scrollbar-thumb{background-color: transparent !important;}
+
+.theme-light .scroller-wrap .scroller::-webkit-scrollbar-thumb{border: 3px solid white !important;background-color: transparent !important;}
+
+.theme-light .scroller-wrap .scroller::-webkit-scrollbar-track-piece{border: 3px solid transparent !important;background-color: transparent !important;}
+
+.theme-light .scroller-wrap:hover .scroller.messages::-webkit-scrollbar-thumb{background-color: var(--main-color) !important;}
+
+.theme-light .scroller-wrap:hover .scroller::-webkit-scrollbar-thumb{border: 3px solid white !important;background-color: var(--main-color) !important;}
+
+.theme-light .scroller-wrap:hover .scroller::-webkit-scrollbar-track-piece{border: 3px solid #fff !important;background-color: #ececec !important;}
+
+.theme-light .chat .jump-to-present-bar{background-color: var(--main-color);}
+
+.theme-light .create-guild-container.deprecated, .theme-light .create-guild-container.deprecated .create-or-join .form-inner, .theme-light .form.deprecated .form-inner, .theme-light .form.deprecated .form-actions{background-color: #fff;}
+
+.theme-light .create-guild-container.deprecated .action{background: #ffffff;box-shadow: 0px 0px 11px 0px rgb(224, 224, 224);}
+
+.theme-light .create-guild-container .action.create .action-icon{-webkit-filter: invert(0) hue-rotate(262deg) !important;}
+
+.theme-light .create-guild-container .action.join .action-icon{-webkit-filter: invert(0) hue-rotate(0deg) !important;}
+
+.theme-light .form .control-group input[type=text], .theme-light .form .control-group input[type=email], .theme-light .form .control-group input[type=password], .theme-light .form .control-group input[type=number], .theme-light .form .control-group textarea{color: var(--main-color) !important;border-bottom: 2px solid #e2e2e2;border: 2px solid #e2e2e2 !important;background: #f6f6f7;}
+
+.theme-light .form.deprecated .btn-default{background-color: #fff;border-bottom: 0px solid transparent;}
+
+.theme-light .mention:hover{color: #fff !important;background: var(--main-color) !important;}
+
+.theme-light .mention{transition: .2s all linear;}
+
+.container-iksrDt .avatar-small{border-radius: 0px;}
+
+.theme-light .mention:hover{color: #fff !important;background: var(--main-color) !important;}
+
+.theme-light .mention{transition: .2s all linear;}
+
+.theme-light .small-popout-box{background: #ffffff;border: 1px solid #f6f6f7;}
+
+.theme-light .option-popout .btn-item, .theme-light .option-popout .btn-item:hover, .context-menu.theme-light.invertY .item, .context-menu.theme-light.invertY .item:hover{color: #696969;}
+
+.context-menu.theme-light.invertY .item:hover{background: #f1f1f1;}
+
+.theme-light .icon.icon-file{-webkit-filter: grayscale(100%) !important;}
+
+.context-menu.theme-light.invertY, .context-menu.theme-light.invertY .context-menu, .theme-light .context-menu{background:#fff !important;}
+
+.theme-light .context-menu .item:hover{background: #efefef;}
