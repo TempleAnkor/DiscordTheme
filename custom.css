@@ -46,7 +46,7 @@ to{-webkit-transform:translate(-50%, -100%);transform:translate(-50%, -100%);}
 
 .help-container{display:none;}
 
-.account{border-top:none !important;padding:0 15px !important;background:#19191b;border-top: 2px solid #212121 !important;height: 72px;overflow: visible;z-index: 9;width: 310px;margin-left: -80px;box-sizing: border-box;}
+.account{border-top:none !important;padding:0 15px !important;background:#111111;border-top: 2px solid #212121 !important;height: 72px;overflow: visible;z-index: 9;width: 310px;margin-left: -80px;box-sizing: border-box;}
 
 .links{background-color:#19191b !important;}
 
