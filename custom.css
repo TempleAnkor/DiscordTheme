@@ -331,7 +331,7 @@ button.btn:hover{background-color:#151517;border-radius:3px;}
 
 #user-profile-modal .guilds .guild:hover .status{border:2px solid rgba(133, 141, 150, 0.7);}
 
-#user-profile-modal .guilds .guild .guild-name .discriminator{display:none;}
+#user-profile-modal .guilds .guild .guild-name .discriminator{display:block;}
 
 #user-profile-modal .guilds .guild:hover .guild-name .discriminator{display:block;}
 
