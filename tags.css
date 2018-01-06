@@ -32,6 +32,12 @@
 
 .message-group:not(.compact) .avatar-large[style*="250805329854595072"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="250805329854595072"] ~ .member-inner .member-username .member-username-inner::after{content:"Big Daddy";color:#fff;background:#FF9B00;border-radius:3px;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:14px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow:rgba(0, 0, 0, 0.4) 1px 1px 1px;}
 
+.message-group:not(.compact) .avatar-large[style*="393452973428047872"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="393452973428047872"] ~ .member-inner .member-username .member-username-inner::after{content:"Force";color:#fff;background:#7705ba;border-radius:3px;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:14px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow:rgba(0, 0, 0, 0.4) 1px 1px 1px;}
+
+.message-group:not(.compact) .avatar-large[style*="221453203982647297"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="221453203982647297"] ~ .member-inner .member-username .member-username-inner::after{content:"Force";color:#fff;background:#7705ba;border-radius:3px;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:14px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow:rgba(0, 0, 0, 0.4) 1px 1px 1px;}
+
+.message-group:not(.compact) .avatar-large[style*="195939164892561408"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="195939164892561408"] ~ .member-inner .member-username .member-username-inner::after{content:"Big Boy";color:#fff;background:#FF9B00;border-radius:3px;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:14px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow:rgba(0, 0, 0, 0.4) 1px 1px 1px;}
+
 @keyframes hue-rotate{from{-webkit-filter:hue-rotate();}to{-webkit-filter:hue-rotate(360deg);}}
 
 /* Pout's Pill */
