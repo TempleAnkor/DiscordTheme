@@ -1,0 +1,7 @@
+.app,
+.callout-backdrop,#pubs-container:before,.bda-backdrop  {
+	background-image: url("https://i.imgur.com/2DLtI12.png");
+	opacity: 1;
+	background-size: cover !important;
+	background-position: center !important;
+}
