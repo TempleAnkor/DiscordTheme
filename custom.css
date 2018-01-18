@@ -4581,3 +4581,51 @@ code{background-color: #111111!important;background-image: linear-gradient(#1212
 .guild.theme-top{top: 19px !important;}
 
 .buttonWhiteOutlined-2KwPTg {border-color: #6441a5 !important}
+
+/* Add Ons */
+.search-bar.search-bar-light {background-color: #111111}
+
+.emojiPicker-3g68GS .header-27dQ-e {background-color: #111111}
+
+.emojiPicker-3g68GS .scroller-2dsok0 {background-color: #111111}
+
+.emoji-picker, .emojiPicker-3g68GS {background-color: #111111}
+
+.emojiPicker-3g68GS .category-3rCtoh {background-color: #111111}
+
+.theme-dark .embedInner-t4ag7g {background-color:#171719 !important}
+
+.theme-dark .embedPill-3sYS1X {background-color: var(--hover-color);}
+
+.typing-3eiiL_ {
+    bottom: 20px !important;
+    font-size: 14px !important;
+}
+
+.theme-dark .typing-3eiiL_ {background-color: #111111}
+
+.uploadModal-2KN6Mm .footer-4pOKm8 {background-color: #111111}
+
+.uploadModal-2KN6Mm {background-color: #111111}
+
+.uploadModal-2KN6Mm .inner-1-09ZV {border: 3px dashed var(--hover-color)}
+
+.uploadModal-2KN6Mm .footer-4pOKm8 .button {height: 35px}
+
+.uploadModal-2KN6Mm .footer-4pOKm8 .button-primary:hover {left: 5px}
+
+.uploadModal-2KN6Mm .footer-4pOKm8 .button-primary {left: 5px}
+
+.uploadModal-2KN6Mm .inner-1-09ZV .file-XhJJS_ .icon-19bbE_.image-sUU6Oh {border: 2px solid var(--hover-color)}
+
+.scroller-1nBnGs {background-color: #111111; padding: 55px 25px 20px 30px}
+
+.userSettingsAccount-2WOnTW .userInfoEditing-1Juv0S, .userSettingsAccount-2WOnTW .userInfoViewing-1jbzEW {padding: 0px}
+
+.theme-dark .header-3lpf0u {top: 46px; background-color: #111111; border-top: 2px var(--main-color) solid !important; padding-bottom:46px}
+
+.theme-dark .lfg-3xoFkI {background-color: #111111}
+
+.status-3jUEha {width: 105%; height: 104%; bottom: -2px; right:-2px;}
+
+.userPopout-4pfA0d .status-3jUEha {width: 105%; height: 104%; bottom: -2px; right:-2px;}
