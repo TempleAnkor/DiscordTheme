@@ -7,7 +7,8 @@
 	/*--version-content: "1.0";*/
  }
 
-.ui-standard-sidebar-view #bd-settingspane-container .content-column.default .bda-slist::before{content: var(--theme-name)" v" var(--version-content) "\A \A Theme Options:\A \A - Revert bottom to default\A - Bring back mention(s) notifications bar\A - Circle Avatars\A - Revert Min, Max, Close buttons to default\A - Better Mentions (Pulsing Box Shadow)\A - Show/Hide Blocked messages\A - Loading Theme Animation \A \A Go to discord.me/mrrobotserver to show love and support! <3"!important;}
+.app, .callout-backdrop, .userPopout-4pfA0d::before { background-image: url("https://cdn.discordapp.com/attachments/281282904988844042/299001666408022016/ezgif.com-video-to-gif_2.gif") !important; background-size: cover !important; }
+.ui-standard-sidebar-view #bd-settingspane-container .content-column.default .bda-slist::before{content: var(--theme-name)" v" var(--version-content) "Thanks for using the force theme."!important;}
 
 .theme-dark .container-RYiLUQ, 
 .theme-dark .layer,
