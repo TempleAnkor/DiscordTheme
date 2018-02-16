@@ -2943,3 +2943,6 @@ innerEnabled-gLHeOL inner-3if5cm flex-3B1Tl4 innerNoAutocomplete-kaUXJZ {
 .chat .divider.divider-red>span
 	line-height: 10px;
 }
+.autocompleteInner-N7OQf1 {
+	background-color: rgba(0,0,0,0.1) !important;
+}
