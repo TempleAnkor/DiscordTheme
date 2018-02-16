@@ -392,3 +392,7 @@ body {
 .unreadTop-25fmEL {
 	display: none;
 }
+
+.theme-dark .message-group:not(.has-divider) {
+	border-bottom-color: hsla(0,0%,100%,.00);
+}
