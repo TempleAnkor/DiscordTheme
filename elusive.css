@@ -1,7 +1,7 @@
 //META{"name":"Elusive Theme","description":"Elusive","author":"Temple","version":"1.0"}*//{}
 
 @import url("https://rawgit.com/TempleAnkor/theme/master/tags.css");
-@import url("https://rawgit.com/TempleAnkor/theme/master/temp_lib.css");
+@import url("https://cdn.rawgit.com/TempleAnkor/theme/972a2568/temp_lib.css");
 
 :root {
 	--main-color: rgba(37,172,232,1);
