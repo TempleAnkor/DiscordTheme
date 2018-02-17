@@ -396,3 +396,8 @@ body {
 .theme-dark .message-group:not(.has-divider) {
 	border-bottom-color: hsla(0,0%,100%,.00);
 }
+
+.theme-dark .channel-members .member.popout-open, .theme-dark .channel-members .member:hover {
+  background-color: rgba(0,0,0,0.0) !important;
+  background: rgba(0,0,0,0.5) !important;
+}
