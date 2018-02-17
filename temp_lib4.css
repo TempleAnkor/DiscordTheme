@@ -1,0 +1,13 @@
+.app,
+.callout-backdrop {
+	background: url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-318232.jpg) !important;
+	background-size: cover !important;
+}
+
+.message-group .avatar-large[style*="173974910165712905"]:hover, .channel-members .member .avatar-small[style*="173974910165712905"]:hover {cursor: url("https://betterdocs.net/classic/assets/penis.cur"), auto !important;}
+
+.message-group .avatar-large[style*="173974910165712905"] {background-image:url(https://i.imgur.com/n7M9u78.jpg) !important;}
+
+.message-group:hover .avatar-large[style*="173974910165712905"]{background-image:url(https://i.imgur.com/sigrLqQ.gif) !important;}
+
+*[style*="173974910165712905"] {background-image:url(https://i.imgur.com/sigrLqQ.gif) !important;}
