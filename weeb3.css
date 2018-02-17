@@ -3,8 +3,6 @@
 @import url("https://rawgit.com/TempleAnkor/theme/master/tags.css");
 @import url("https://rawgit.com/TempleAnkor/theme/master/temp_lib2.css");
 
-.app { background-image: url(https://i.imgur.com/PxOSa5I.png) !important; background-size: cover !important; }
-
 #app-mount,
 .app .layers .layer,
 .app .layers,
