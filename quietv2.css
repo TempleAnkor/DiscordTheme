@@ -247,7 +247,7 @@ status-picker.popout-menu {width: 210px !important;}
 /* chat spaacing and colour typic pos*/
 .chat .content form > div[class*=channelTextArea] {margin-top: 8px!important;}
 .theme-dark .inner-3if5cm {border-radius: 10px !important;border-top:1px solid #111 !important ;border-right: 1px solid var(--hover-color) !important;}
-.theme-dark .chat form {margin-top: 18px !important;}
+.theme-dark .chat form {margin-top: 23px !important;}
 .channel-members .member .member-inner {width: 165px;}
 .channel-members .member {
 	padding: 5px 16px 5px 22px;
