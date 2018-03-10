@@ -256,7 +256,7 @@ status-picker.popout-menu {width: 210px !important;}
 .message-group .avatar-large {margin-right: 8px !important;}
 .attachment-image .image, .message-group .comment .attachment-image img, .embed .image, .embed .embed-thumbnail img {box-shadow:none !important;}
 .private .channelTextArea-os01xC{margin: 20px 20px 32px 0px;}
-.typing-3eiiL_ {bottom: 14px !important; font-size:11px!important;}
+.typing-3eiiL_ {bottom: 18px !important; font-size:13px!important;}
 .theme-dark .inner-3if5cm {border: 1px solid var(--hover-color) !important;}
 .theme-dark .chat form {border-right: none !important;}
 .inner-3if5cm {border: 1px solid var(--hover-color) !important;}
