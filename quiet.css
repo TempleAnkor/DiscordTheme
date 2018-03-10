@@ -3870,7 +3870,10 @@ code{background-color: #19191b!important;background-image: linear-gradient(#1212
 
 .theme-light .mention{transition: .2s all linear;}
 
-.container-iksrDt .avatar-small{border-radius: 0px;}
+.container-iksrDt .avatar-small{
+	border-radius: 0px;
+	left: 2px;
+}
 
 .theme-light .mention:hover{color: #fff !important;background: var(--main-color) !important;}
 
