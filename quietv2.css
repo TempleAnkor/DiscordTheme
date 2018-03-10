@@ -216,7 +216,7 @@ display:none !important;}
 
 
 .message-group .comment .markup {font-size: 0.9375rem;line-height:1em;margin-top:2px;}
-.message-group {padding:2px!important;}
+.message-group {padding:10px!important;}
 .guilds-wrapper {width:65px!important;}
 .app .guilds .guild:first-child {width: 68px;}
 
@@ -275,7 +275,7 @@ status-picker.popout-menu {width: 210px !important;}
 .channel-members h2 {margin-top: 4px !important;}
 
 
-.guilds-wrapper .guilds .guild+.guild {margin-top: 2px;}
+.guilds-wrapper .guilds .guild+.guild {margin-top: 5px;}
 .guilds-wrapper .guild-separator {margin-bottom: 2px;}
 
 
