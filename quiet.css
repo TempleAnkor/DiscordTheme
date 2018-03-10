@@ -76,7 +76,7 @@ padding:15px 20px 15px 18px !important;}
 
 .chat>.content .messages .message-group a{color: var(--main-color) !important;font-weight: 500;}
 
-.chat>.content .messages .message-group .markup{color:#aaaaaa;line-height:1.4em;padding:0;}
+.chat>.content .messages .message-group .markup{color:#aaaaaa;line-height:1.4em;padding:1px 1px 0px 3px;}
 
 .channel-textarea-inner{border: 0;background:#19191b !important;padding:0;border-radius: 0px!important;height: 100%;}
 
@@ -198,7 +198,7 @@ button.btn:hover{background-color:#151517;border-radius:3px;}
 
 .theme-dark .chat .has-more button{background:#111113 !important;border:1px solid #111113 !important;color:var(--main-color) !important;}
 
-.chat .divider{height:28px;background-color:transparent;}
+.chat .divider{height:28px;background-color:#1b1b1b;}
 
 .highlight{color:var(--main-color);background:#131315;border-radius:3px;padding:1px 4px 2px 3px;}
 
@@ -5202,4 +5202,9 @@ display: none}
 
 .theme-dark .headerBar-cxbhPD {
 	background: rgba(17, 17, 17, 1);
+}
+
+.emoji.jumboable {
+	height: 30px;
+    width: 30px;
 }
