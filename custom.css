@@ -4631,3 +4631,19 @@ code{background-color: #111111!important;background-image: linear-gradient(#1212
 .userPopout-4pfA0d .status-3jUEha {width: 105%; height: 104%; bottom: -2px; right:-2px;}
 
 .message-group-blocked { display: none; }
+
+.feed-jRZy6x {
+	background-color: #111111;
+}
+
+.menu-3BZuDT {
+	background-color: #1b1b1b;
+}
+
+.separator-1hpa3S {
+    border-bottom: 1px solid #8d2036;
+}
+
+.theme-dark .searchAnswer-yD90ey, .theme-dark .searchFilter-1fJ0cd {
+	background-color: #1b1b1b;
+}
