@@ -966,3 +966,25 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 .clipboardInputInner-oj8y-S button {border-left: none !important;}
 
 .topSectionSpotify-3744IX {background: rgba(0, 0, 0, 0.7)!important;}
+
+.premiumPaymentModal-w4sE7z .lookOutlined-1c5nhl.colorWhite-1IbOTe {border-color: var(--main-color) !important;border-radius: 3px !important;}
+
+.theme-dark .incomingCallInner-1LQbjf {background: rgba(0, 0, 0, 0.75);}
+
+.theme-dark #friends .friends-table .friends-table-body::after{display: none !important;}
+
+.theme-dark .container-iksrDt{height: 71px;background: transparent;width: calc(100% - 20px) !important;margin-left: 0px;border:none !important;}
+
+.theme-dark .chat form{background-color: transparent;}
+
+.theme-dark .inner-3if5cm{border: none !important;}
+
+.theme-dark .chat form {border-right:none;}
+
+.theme-dark .quickMessage-OCo-Q0 {background-color: rgba(0, 0, 0, 0.3);}
+
+.theme-dark .wumpusTooltip-ay1p-U {background: rgba(0, 0, 0, 0.5);color: #ffffff;}
+
+.premiumPaymentModal-w4sE7z {background-color: rgba(0, 0, 0, 0.8);}
+
+.wumpusWrapper-2d_b-0 { margin-top: 30px;}
