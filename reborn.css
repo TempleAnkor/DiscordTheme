@@ -988,3 +988,27 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 .premiumPaymentModal-w4sE7z {background-color: rgba(0, 0, 0, 0.8);}
 
 .wumpusWrapper-2d_b-0 { margin-top: 30px;}
+
+.statusStreaming-1bZ3Hq {
+    background-color: transparent;
+    border: 2px solid #643da7 !important;
+}
+
+.statusAnimated-Qs3GUf {
+    transition: width .5s ease,right .5s ease,background-color .5s ease,height .5s ease;
+}
+
+.small-TEeAkX .statusTyping-lRly31 {
+    border-radius: 999px;
+    background-color: #1b1b1b;
+    display: flex;
+    overflow: hidden;
+    right: -13px;
+    width: 18px;
+    height: 8px;
+}
+
+.pulsingEllipsis-36SsC3 {
+    width: 16px;
+    right: -2px;
+}
