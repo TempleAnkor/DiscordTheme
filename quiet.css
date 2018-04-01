@@ -4529,7 +4529,7 @@ display: none !important;}
 
 .newsBorderMarginTop-2PFKAf {margin-top: 10px; !important;}
 
-.theme-dark .quickMessage-OCo-Q0 { border-color: var(--main-color) !important;border-radius: 50px !important}
+.theme-dark .quickMessage-OCo-Q0 { border-color: var(--main-color) !important;border-radius: 50px !important;background-color: #1b1b1b}
 
 .chat [class*='titleWrapper-'] [class*='flex-'] [class*='flex-']:after, #friends [class*='flex-'] [class*='flex-']:last-of-type:after, [class*='activityFeed-'] [class*='flex-'] [class*='flex-']:last-of-type:after {height: 12px !important;}
 
@@ -5210,4 +5210,9 @@ display: none}
 .emoji.jumboable {
 	height: 30px;
     width: 30px;
+}
+
+.statusStreaming-1bZ3Hq {
+    background-color: transparent;
+    border: 2px solid #643da7 !important;
 }
