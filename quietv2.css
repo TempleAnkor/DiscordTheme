@@ -437,4 +437,26 @@ display: none}
   margin-left: 15px;
 }
 
-/*/STATUS PICKER*/
+.theme-dark #memberCount {
+	position: absolute;
+    color: hsla(0, 0%, 100%, 0.4);
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    font-weight: 500;
+    text-transform: uppercase;
+    background: #111111;
+    background-image: linear-gradient(90deg, transparent, transparent), linear-gradient(90deg, transparent, var(--main-color), transparent);
+    background-size: 100% 3px;
+    background-position: 0 0, 0 100%;
+    background-repeat: no-repeat;
+    display: block;
+    width: 100%;
+    left: -15px;
+    top: -20px;
+    text-align: center;
+    padding: 2vh 0;
+}
+
+.theme-dark .popoutList-2NT_IY
+    background: #1b1b1b;
+}
