@@ -1009,3 +1009,84 @@ box-shadow: none;}
 .theme-dark .menu-Sp6bN1 {
     background-color: rgba(0,0,0, 0.8);
 }
+
+.theme-dark .header-2RyJ0Y {
+    color: var(--main-color) !important;
+    background-image: linear-gradient(90deg, transparent, transparent), linear-gradient(90deg, transparent, var(--main-color), transparent);
+    background-size: 100% 3px;
+    background-position: 0 0, 0 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.horizontal-1ae9ci>.flex-1xMQg5, .horizontal-1ae9ci>.flexChild-faoVW3 {
+    margin-left: 10px;
+}
+
+.theme-dark .membersGroup-v9BXpm {
+    color: var(--main-color) !important;
+    background-image: linear-gradient(90deg, transparent, transparent), linear-gradient(90deg, transparent, var(--main-color), transparent);
+    background-size: 100% 3px;
+    background-position: 0 0, 0 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.containerDefault-3GGEv_, .containerDragAfter-3TEhpe, .containerDragBefore-3Dzc5x, .containerUserOver-1Tcb7l {
+    color: var(--main-color) !important;
+    background-image: linear-gradient(90deg, transparent, transparent), linear-gradient(90deg, transparent, var(--main-color), transparent);
+    background-size: 100% 3px;
+    background-position: 0 0, 0 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.wrapper-2NJDcI {
+    background-color: transparent;
+    color: #fff;
+}
+
+.side-8zPYf6 .itemSelected-1qLhcL {
+    background-color: var(--main-color) !important;
+}
+
+.theme-dark .footer-2yfCgX {
+    background-color: transparent;
+}
+
+.uploadModal-2ifh8j .footer-3mqk7D {
+    background-color: var(--RB);
+}
+
+.uploadModal-2ifh8j .inner-3nWsbo {
+    border: 2px dashed var(--main-color);
+}
+
+.uploadModal-2ifh8j {
+    background-color: var(--RB);
+}
+
+.uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .icon-kyxXVr.image-2yrs5j {
+    border: 2px solid var(--main-color);
+}
+
+.theme-dark .menu-Sp6bN1 {
+    background-color: var(--RB);
+}
+
+.theme-dark .member-3W1lQa.popout-open .content-OzHfo4, .theme-dark .member-3W1lQa.popout-open:hover .content-OzHfo4 {
+    border: 3px solid var(--main-color);
+    background-color: var(--RB);
+}
+
+.theme-dark .messagesPopoutWrap-1MQ1bW .header-ykumBX {
+    background-color: #1b1b1b;
+}
+
+.theme-dark .messagesPopoutWrap-1MQ1bW .footer-1kmXd4 {
+    background-color: #1b1b1b;
+}
+
+.scroller-wrap .scroller {
+    background-color: var(--RB);
+}
