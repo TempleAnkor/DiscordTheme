@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Satisfy);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,400i);
-@import url("https://rawgit.com/TempleAnkor/theme/master/tags.css");
+@import url("https://cdn.rawgit.com/TempleAnkor/theme/75d1dfda/tags.css");
 
 :root {
     --version-content: "7.5";
