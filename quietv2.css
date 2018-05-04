@@ -8,9 +8,10 @@ IMPORTANT: EVERY URL MUST BE HTTPS:// IN ORDER TO WORK IN DISCORD
 */
 
 :root { 
-	--main-color: #8d2036 ;
+	--main-color: #8d2036;
 	--hover-color: #6f182a;
 	--RB: rgba(17, 17, 17, 1) !important;
+	--SC: #1b1b1b !important;
 
 }
  /*
@@ -888,7 +889,7 @@ box-shadow: none;}
     box-shadow: none !important;}
 
 .theme-dark .itemSubMenu-1vN_Yn {
-    background: transparent !important;}
+    background: var(--SC) !important;}
 
 .itemGroup-1tL0uz:not(:first-child):not(:empty) {
     border-top-width: 0px !important;}
@@ -1193,5 +1194,42 @@ box-shadow: none;}
     font-size: 14px;
 }
 	
-
+#app-mount .title-3qD0b- > div {
+    margin-right: -3px !important;
+}
 	
+.theme-dark .searchPopout-1vUlP3 {
+    background-color: var(--RB);
+}
+	
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker {
+    background-color: var(--RB);
+}
+	
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__header {
+    background-color: var(--RB);
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month {
+    background-color: var(--RB);
+}
+	
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover {
+    background-color: var(--RB);
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--selected:after {
+    background-color: var(--main-color);
+}
+	
+.theme-dark .option-96V44q.selected-rZcOL- {
+    background-color: var(--main-color);
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--selected:hover, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day:hover {
+    background-color: var(--main-color);
+}
+
+.theme-dark .keybindShortcut-1BD6Z1 span {
+    background-color: var(--main-color);
+}
