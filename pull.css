@@ -884,7 +884,7 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 
 .theme-dark .typing-3eiiL_ {background-color: transparent;}
 
-.theme-dark [class*="modal-"] [class*="inner-"] [class*="modal-"] {background-color: transparent;}
+.theme-dark [class*="modal-"] [class*="inner-"] [class*="modal-"] {background-color: #111111;}
 
 .separator-1hpa3S { -webkit-box-sizing: border-box !important;border-bottom: none !important;}
 
