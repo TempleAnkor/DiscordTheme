@@ -5266,3 +5266,13 @@ display: none}
 .theme-dark .keybindShortcut-1BD6Z1 span {
     background-color: var(--main-color);
 }
+
+.small-5Os1Bb .statusTyping-2ed9jJ {
+    border-radius: 999px;
+    background-color: #1b1b1b;
+    display: flex;
+    overflow: hidden;
+    right: -13px !important;
+    width: 18px !important;
+    height: 8px !important;
+}
