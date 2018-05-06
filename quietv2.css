@@ -658,9 +658,9 @@ display: none}
     background-color: #1b1b1b;
     display: flex;
     overflow: hidden;
-    right: -13px;
-    width: 18px;
-    height: 8px;
+    right: -13px !important;
+    width: 18px !important;
+    height: 8px !important;
 }
 
 .pulsingEllipsis-3YiXRF {
