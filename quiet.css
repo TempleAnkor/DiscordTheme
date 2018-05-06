@@ -5234,3 +5234,35 @@ display: none}
     background-color: transparent;
     border: 2px solid #643da7 !important;
 }
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker {
+    background-color: var(--RB);
+}
+	
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__header {
+    background-color: var(--RB);
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month {
+    background-color: var(--RB);
+}
+	
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover {
+    background-color: var(--RB);
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--selected:after {
+    background-color: var(--main-color);
+}
+	
+.theme-dark .option-96V44q.selected-rZcOL- {
+    background-color: var(--main-color);
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--selected:hover, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day:hover {
+    background-color: var(--main-color);
+}
+
+.theme-dark .keybindShortcut-1BD6Z1 span {
+    background-color: var(--main-color);
+}
