@@ -1051,4 +1051,6 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 
 .lookInverted-2lPGe7.colorGreen-22At8E {background-color: var(--main-color);color: #ffffff;}
 
-.theme-dark .status-2Devx1 {border-color: 
+.popoutLeft-30WmrD {
+	margin-left: -20px;
+}
