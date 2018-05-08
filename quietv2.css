@@ -1,11 +1,4 @@
-/* IMPORT CSS FROM GITHUB */
 @import url("https://cdn.rawgit.com/TempleAnkor/theme/61980cc0/pull.css");
-/*
-===== IMPORTANT =====
-CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS THEME TO WORK!
-IMPORTANT: EVERY URL MUST BE HTTPS:// IN ORDER TO WORK IN DISCORD
-===== CUSTOMIZABLE COLORS / IMAGES =====
-*/
 
 :root { 
 	--main-color: #8d2036;
@@ -14,10 +7,6 @@ IMPORTANT: EVERY URL MUST BE HTTPS:// IN ORDER TO WORK IN DISCORD
 	--SC: #1b1b1b !important;
 
 }
- /*
----------------------------------------------------------------------------------------------------------------------------------------------
-*/
-/* OLD TITLE BAR -*/
 
 .theme-dark .activityFeed-HeiGwL  .iconMargin-2YXk4F ,.divider-2PMBlV{
     margin-right: 90px !important;
@@ -45,6 +34,7 @@ div[class*="titleBar-"]:before {
     z-index: 3002;
     -webkit-app-region: drag;
 }
+
 div[class*="titleBar-"]:after {
     content: '';
     position: absolute;
@@ -54,9 +44,11 @@ div[class*="titleBar-"]:after {
     height: 0px;
     z-index: 3002;
 }
+
 div[class*="wordmark-"], div[class*="winButton-"] svg {
     display: none;
 }
+
 div[class*="winButton-"] {
     top: 9px;
     height: 30px;
@@ -66,6 +58,7 @@ div[class*="winButton-"] {
     opacity: .6;
     transition: 200ms ease;
 }
+
 div[class*="winButton-"]:hover{
 	-webkit-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -74,27 +67,32 @@ div[class*="winButton-"]:hover{
 	border-radius: 10px;
     opacity: 1;
 }
+
 div[class*="titleBar-"] div:nth-of-type(2) {
 	background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg) !important;  
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 24px;
 }
+
 div[class*="titleBar-"] div:nth-of-type(3) {
     background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/fullscreen.svg) !important;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 24px;
 }
+
 div[class*="titleBar-"] div:nth-of-type(4) {
     background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/remove.svg) !important;
 	background-repeat: no-repeat;
 	background-position: center 7px;
 	background-size: 24px;
 }
+
 #app-mount .titleWrapper-1l0xT9 > div{
     margin-right: 98px !important;
 }
+
 .chat [class*='titleWrapper-'] [class*='flex-'] [class*='flex-']:after,
 #friends [class*='flex-'] [class*='flex-']:last-of-type:after,
 [class*='activityFeed-'] [class*='flex-'] [class*='flex-']:last-of-type:after {
@@ -103,6 +101,7 @@ div[class*="titleBar-"] div:nth-of-type(4) {
     height: 0px;
     background-color: hsla(240,6%,97%,.1);
 }
+
 /* OLD TITLE BAR */
 /*adjust guild margin*/
 .app .guilds .guild:first-child {margin-top: 0px!important;padding-bottom:1px !important}
