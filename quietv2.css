@@ -89,10 +89,6 @@ div[class*="titleBar-"] div:nth-of-type(4) {
 	background-size: 24px;
 }
 
-#app-mount .titleWrapper-1l0xT9 > div{
-    margin-right: 98px !important;
-}
-
 .chat [class*='titleWrapper-'] [class*='flex-'] [class*='flex-']:after,
 #friends [class*='flex-'] [class*='flex-']:last-of-type:after,
 [class*='activityFeed-'] [class*='flex-'] [class*='flex-']:last-of-type:after {
@@ -253,7 +249,7 @@ status-picker.popout-menu {width: 210px !important;}
 	padding: 5px 16px 5px 22px;
 	margin-top: 3px;
 }
-.message-group .avatar-large {margin-right: 8px !important;}
+.message-group .avatar-large {margin-right: 0px !important;}
 .attachment-image .image, .message-group .comment .attachment-image img, .embed .image, .embed .embed-thumbnail img {box-shadow:none !important;}
 .private .channelTextArea-rNsIhG{margin: 20px 20px 32px 0px;}
 .typing-2GQL18 {bottom: 18px !important; font-size:13px!important;}
@@ -842,7 +838,7 @@ bottom: -10px;}
     background-color: transparent !important;}
 
 .channelTextArea-rNsIhG {
-    margin: 10px 0 12px;}
+    margin: 10px 0 20px;}
 
 .emojiPicker-3m1S-j .stickyHeader-1SS0JU {
     display: none;}
@@ -898,7 +894,7 @@ box-shadow: none;}
 
 
 .textAreaDisabled-2_o-kZ, .textAreaEdit-bNLDk3, .textAreaEnabledNoAttach-1WxUwj, .textAreaForm-18s4EO {
-    background: var(--RB) !important;}
+    background: transparent !important;}
 
 .container-1UB9sr {
     background: none;
