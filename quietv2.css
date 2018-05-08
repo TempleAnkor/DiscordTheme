@@ -449,7 +449,7 @@ display: none}
     display: block;
     width: 100%;
     left: -15px;
-    top: -20px;
+    top: -4vh !important;;
     text-align: center;
     padding: 2vh 0;
 }
