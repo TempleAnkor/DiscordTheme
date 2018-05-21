@@ -785,7 +785,9 @@ bottom: -10px;}
     background-color: rgba(0, 0, 0, 0.3);}
 
 .contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active {
-    background-color: rgba(0, 0, 0, 0.3);}
+    background-color: rgba(0, 0, 0, 0.3);
+	border-right: 3px solid var(--main-color);
+}
 
 
 .headerFill-adLl4x {
