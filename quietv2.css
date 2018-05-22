@@ -786,7 +786,6 @@ bottom: -10px;}
 
 .contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active {
     background-color: rgba(0, 0, 0, 0.3);
-	border-right: 3px solid var(--main-color);
 }
 
 
@@ -1229,4 +1228,8 @@ box-shadow: none;}
 
 .theme-dark .keybindShortcut-1BD6Z1 span {
     background-color: var(--main-color);
+}
+
+.contentSelectedText-3wUhMi {
+	border-right: 3px solid var(--main-color);
 }
