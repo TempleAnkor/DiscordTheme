@@ -1233,3 +1233,12 @@ box-shadow: none;}
 .contentSelectedText-3wUhMi {
 	border-right: 3px solid var(--main-color);
 }
+
+.theme-dark .wrapper-35wsBm {
+	background-image: url(https://i.imgur.com/Vk48bfv.jpg);
+    background-position-y: -130px;
+}
+
+.theme-dark .h5-18_1nd {
+	color: #ffffff;
+}
