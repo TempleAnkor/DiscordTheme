@@ -5711,7 +5711,7 @@ span.spinner {margin-top: 0px;}
 
 .chat .avatar-large:after {margin-top: 35% !important;margin-left: 80% !important;}
 
-.emoji.jumboable { height: auto; width: 40px;max-height: 60px;}
+.emoji.jumboable {height: 30px;width: 30px;max-height: 60px;}
 
 .message-group .comment { margin-right: 0px;margin-top: 0px;}
 
