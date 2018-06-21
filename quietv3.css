@@ -5403,7 +5403,7 @@ background-image: none;
 
 .theme-dark .inner-zqa7da {  background-color: transparent;  border: 1px solid var(--mc);}
 
-.theme-dark .chat form {  background: transparent !important; border-top: 0px solid transparent !important;margin: 0px !important;}
+.theme-dark .chat form {  background: transparent !important; border-top: 0px solid transparent !important;margin: 0px !important;bottom: 9px;}
 
 .theme-dark .typing-2GQL18 {  background-color: transparent;font-size: 12px;bottom: -8px;}
 
@@ -5764,3 +5764,17 @@ span.spinner {margin-top: 0px;}
 .invisible-1kp8Z0, .offline-3qoTek, .unknown-Ms2zdV{background-color:transparent;}
 
 .guilds-wrapper .guilds {padding: 0px 0px 140px 14px !important;}
+
+.dnd-1_xrcq {border: solid #f04747 2px !important;}
+
+.status-oxiHuE {border-radius: 50px !important;background-color: transparent;}
+
+.statusProfile-3ynqtt {bottom: -2px;height: 90px;position: absolute;right: -3px;width: 90px;}
+
+.invisible-1kp8Z0, .offline-3qoTek, .unknown-Ms2zdV {background-color: #747f8d;border: 2px solid #747f8d !important;}
+
+.online-2S838R {background-color: transparent;border: 2px solid #43b581 !important;}
+
+.idle-3DEnRT {background-color: transparent;border: 2px solid #faa61a !important;}
+
+.theme-dark .everyonePopout-nEbJY3 {-webkit-box-shadow: 0 2px 10px 0 rgba(28,36,43,.6);background-color: var(--RB);box-shadow: 0 2px 10px 0 rgba(28,36,43,.6);}
