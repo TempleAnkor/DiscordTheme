@@ -5783,3 +5783,7 @@ span.spinner {margin-top: 0px;}
 .online-2S838R {background-color: transparent;border: 3px solid #43b581 !important;}
 
 .guilds-wrapper .guilds .home-icon {-webkit-box-sizing: border-box;box-sizing: border-box;color: #fff;height: 100%;padding: 0px;margin-left: 17px;width: 100%;}
+
+.pulsingEllipsis-3YiXRF {-ms-flex-pack: center;-webkit-box-pack: center;display: -webkit-box;display: -ms-flexbox;display: flex;height: auto;justify-content: center;position: relative;width: 16px;}
+
+.typing-1KJk_j.dnd-1_xrcq, .typing-1KJk_j.idle-3DEnRT, .typing-1KJk_j.invisible-1kp8Z0, .typing-1KJk_j.offline-3qoTek, .typing-1KJk_j.streaming-2_dnHe, .typing-1KJk_j.unknown-Ms2zdV {background-image: none!important;height: 8px !important;top: 20px;right: -10px !important;width: 16px !important;}
