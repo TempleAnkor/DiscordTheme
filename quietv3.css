@@ -5618,7 +5618,7 @@ background-image: none;
 
 .theme-dark .inviteRow-2poi6Q:hover {background-color: var(--hc);}
 
-#pluginNotice {  color: #fff;margin-left: 40% !important;text-shadow: 0.5px 0.5px 0.5px rgba(0,0,0,0.3) !important;}
+#pluginNotice {  color: #fff;text-shadow: 0.5px 0.5px 0.5px rgba(0,0,0,0.3) !important;}
 
 .notice {z-index: 3004 !important;}
 
