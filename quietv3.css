@@ -5152,9 +5152,9 @@ ui-call-avatar.video,.ui-call-avatar.video .wrapper-2G6bx_ > canvas {border-radi
 
 #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch { border-radius: var(--br)/20px;}
 
-#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch:before { background: var(--mc); border-radius: var(--br);}
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch:before { background: #ffffff; border-radius: var(--br);}
 
-#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch { background: var(--hc) !important;}
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch { background: #000 !important;}
 
 .theme-dark .accountBtnInner-sj5jLs{  transform: scale(1);}
 
