@@ -3442,7 +3442,7 @@ form .bf-toolbar{position:absolute !important;transform:translate(0px,-60px) !im
 
 .statusIdle-2AQdvu{background-color:transparent;border: 2px solid #faa61a !important;}
 
-.status-oxiHuE{width:18px;height:18px;border-width:2px !important;}
+.status-oxiHuE{width:18px;height:18px;border-width:3px !important;}
 
 .status-oxiHuE{position:absolute;bottom:13px;right:1574px;}
 
@@ -5454,7 +5454,7 @@ background-image: none;
 
 .emojiPicker-3m1S-j .category-2U57w6 {   color: #98aab6;   font-size: 12px;   font-weight: 500;  height: auto;   text-align: center;   line-height: 12px;}
 
-.statusProfile-3ynqtt {   bottom: -2px;  height: 90px;  position: absolute;   right: -2px;  width: 90px;}
+.statusProfile-3ynqtt {   bottom: -2px;  height: 90px;  position: absolute;   right: -3px;  width: 90px;}
 
 .iconBadge-2dji3k {  background-color: #f04747;  border: none !important;   right: 90px;}
 
@@ -5762,11 +5762,11 @@ span.spinner {margin-top: 0px;}
 
 .title-3qD0b- .status-streaming{background:#593695;border: none !important;}
 
-.invisible-1kp8Z0, .offline-3qoTek, .unknown-Ms2zdV{background-color:transparent;}
+.invisible-1kp8Z0, .offline-3qoTek, .unknown-Ms2zdV{background-color:transparent;border: 2px solid #747f8d !important;}
 
 .guilds-wrapper .guilds {padding: 0px 0px 140px 14px !important;}
 
-.dnd-1_xrcq {border: solid #f04747 2px !important;}
+.dnd-1_xrcq {border: solid #f04747 3px !important;}
 
 .status-oxiHuE {border-radius: 50px !important;background-color: transparent;}
 
@@ -5774,9 +5774,9 @@ span.spinner {margin-top: 0px;}
 
 .invisible-1kp8Z0, .offline-3qoTek, .unknown-Ms2zdV {background-color: #747f8d;border: 2px solid #747f8d !important;}
 
-.online-2S838R {background-color: transparent;border: 2px solid #43b581 !important;}
+.online-2S838R {background-color: transparent;border: 3px solid #43b581 !important;}
 
-.idle-3DEnRT {background-color: transparent;border: 2px solid #faa61a !important;}
+.idle-3DEnRT {background-color: transparent;border: 3px solid #faa61a !important;}
 
 .theme-dark .everyonePopout-nEbJY3 {-webkit-box-shadow: 0 2px 10px 0 rgba(28,36,43,.6);background-color: var(--RB);box-shadow: 0 2px 10px 0 rgba(28,36,43,.6);}
 
