@@ -4954,7 +4954,7 @@ display:none !important;}
 
 #friends .friends-table .friends-table-body > span{display:flex;flex-flow:row wrap;justify-content:center;}
 
-#friends .friends-table .friends-row{background:rgba(0, 0, 0, 0.35)!important;box-shadow:1px 1px 2px rgba(0, 0, 0, 0.5);border-radius:5px;margin:15px;padding:0;height:120px!important;flex-direction:column;flex-basis:300px;position:relative;transition:opacity 300ms;}
+#friends .friends-table .friends-row{background:rgba(0, 0, 0, 0.35)!important;box-shadow:1px 1px 2px rgba(0, 0, 0, 0.5);border-radius:5px;margin:15px;padding:0;height:150px!important;flex-direction:column;flex-basis:300px;position:relative;transition:opacity 300ms;}
 
 #friends .friends-table .friends-row:hover{box-shadow:1px 1px 2px rgba(0, 0, 0, 0.5);border-radius:5px;margin:15px;padding:0;opacity:1!important;}
 
@@ -4966,7 +4966,7 @@ display:none !important;}
 
 #friends .friends-table .friends-row .friends-column + .friends-column{margin:0;}
 
-#friends .friends-table .friends-row .friends-column-name .avatar-small{top:25px;left:15px;width:85px;height:85px;background-size:85px 85px;opacity:0.6;transition:opacity 500ms, transform .2s linear, box-shadow .2s linear;transform: scale(0.97) perspective(1px);}
+#friends .friends-table .friends-row .friends-column-name .avatar-small{top:25px;left:10px;width:85px;height:85px;background-size:85px 85px;opacity:0.6;transition:opacity 500ms, transform .2s linear, box-shadow .2s linear;transform: scale(0.97) perspective(1px);}
 
 #friends .friends-table .friends-row:hover .friends-column-name .avatar-small{opacity:0.9;transform: scale(1) perspective(1px);box-shadow: 1px 1px 8px 1px #000;}
 
