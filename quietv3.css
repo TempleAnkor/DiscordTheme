@@ -201,7 +201,7 @@ button.btn:hover{background-color:#151517;border-radius:3px;}
 
 .chat .divider{height:28px;margin-bottom: 4px;background-color:transparent;}
 
-.theme-dark .markup-2BOw-j a, .theme-dark .wrapper-3WhCwL{opacity:1 !important;color:var(--mc) !important;font-weight: 500;}
+.theme-dark .markup-2BOw-j a, .theme-dark .wrapper-3WhCwL{opacity:1 !important;color:var(--mc) !important;font-weight: 500;border-radius: 3px;}
 
 .markup-2BOw-j  a:hover , .theme-dark .wrapper-3WhCwL:hover{background-color:var(--hc);color:#fff !important;opacity:0.9;border-radius: 3px}
 
@@ -5818,3 +5818,5 @@ dismiss-1QjyJW, .dismiss-SCAH9H {height: 0px;right: 100px;transition: all .2s li
 .containerCozy-jafyvG .isMentionedCozy-3isp7y  {margin-right: 10px;}
 
 .contentConnectedVoice-qL-YrL:active, .contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active {background-color: var(--QTD);}
+
+.theme-dark .wrapper-3WhCwL {background-color: transparent;}
