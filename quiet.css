@@ -4850,7 +4850,7 @@ div[class*="titleBar-"] div:nth-of-type(4) {
 
 .theme-dark .chat-3bRxxu form {  background: transparent !important; border-top: 0px solid transparent !important;margin: 0px !important;}
 
-.theme-dark .typing-2GQL18 {  background-color: transparent;font-size: 12px;bottom: -7px !important;}
+.theme-dark .typing-2GQL18 {  background-color: transparent;font-size: 12px;bottom: 0px !important;}
 
 .theme-dark .headerBar-UHpsPw {  box-shadow: none;  border-bottom: 2px solid var(--mc); height: 48px;}
 
@@ -4890,7 +4890,7 @@ div[class*="titleBar-"] div:nth-of-type(4) {
 
 .theme-dark .activityFeed-28jde9 { background-color: var(--QT) !important;;}
 
-.channelTextArea-rNsIhG {margin: 10px 0 12px;padding:0px !important;}
+.channelTextArea-rNsIhG {margin: 10px 0 25px;padding:0px !important;}
 
 .emojiPicker-3m1S-j .stickyHeader-1SS0JU {  display: none;}
 
@@ -6748,3 +6748,5 @@ rect[width="25"][height="10"] {
 [style*="color: rgba(114, 137, 218, 0.4);"].folderIconWrapper-226oVY {background-color: var(--hc) !important;}
 
 .controlIcon-3cRbti {color: var(--hc);opacity: 0.9 !important;}
+
+.theme-dark .messagesPopout-24nkyi {background-color: var(--QT);}
