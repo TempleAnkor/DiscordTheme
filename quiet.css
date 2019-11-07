@@ -5154,7 +5154,7 @@ span.spinner {margin-top: 0px;}
 
 .chat-3bRxxu .large-3ChYtB:after {margin-top: 35% !important;margin-left: 90% !important;}
 
-.emoji.jumboable { height: auto; width: 30px;max-height: 60px;}
+.emoji.jumboable { height: auto; width: 30px;max-height: 60px; min-height: 2rem;}
 
 .containerCozy-jafyvG .comment { margin-right: 0px;margin-top: 0px;}
 
