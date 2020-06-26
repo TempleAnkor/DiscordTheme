@@ -6817,3 +6817,88 @@ textarea {background: var(--QT);}
 .theme-dark .tooltipBrand-g03Nz8,.tooltipPointer-3ZfirK {background-color: var(--hc);border-top-color: var(--hc);}
 
 .avatar-3uk_u9 {width: unset;}
+
+.fakeLink-26oLcc {color: var(--mc);}
+
+.wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN {padding-top: 0px !important;}
+
+.bodyWrapper-3G0FZZ {background-color: var(--QT);}
+
+.categoryWrapper-UZ5YNj {background-color: var(--QTD);}
+
+.header-8ilj5e {background-color: var(--QTD);}
+
+.contentWrapper-2txmjs {background-color: var(--QTD);}
+
+.navButtonActive-3RPAJy {background-color: var(--mc);}
+
+.inspector-sdLnLS {background-color: var(--QTD);}
+
+.wrapper-2N7X54 {background-color: var(--QTD);}
+
+.categoryItemDefaultCategorySelected-_HCKoz, .categoryItemDefaultCategorySelected-_HCKoz:hover {background-color: var(--hc);}
+
+.categoryItem-3zFJns.selectedCategoryItem-3X8ujp .itemInner-3gVXMG {background-color: var(--mc);}
+
+.colorDefault-2K3EoJ.focused-3afm-j {background-color: var(--mc);}
+
+.searchResultsWrap-3-pOjs {background-color: var(--QT);}
+
+.searchResultMessage-30QnSN.hit-1CXhXT {background-color: var(--QTD);}
+
+.searchResultMessage-30QnSN.hit-1CXhXT {box-shadow: 0 0 10px 6px var(--mc);}
+
+.searchResultMessage-30QnSN.hit-1CXhXT {border: 1px solid var(--mc);}
+
+.channelName-wvgELL {background: var(--QTD);}
+
+.searchResult-2N9RV4:before {background-image: linear-gradient(0deg,transparent,var(--mc));}
+
+.searchResult-2N9RV4.expanded-ovgtuV {background-color: var(--QT); border: 1px solid var(--mc);}
+
+.expanded-ovgtuV .searchResultMessage-30QnSN.hit-1CXhXT {background-color: var(--QT); border: 1px solid var(--mc);}
+
+.searchResult-2N9RV4:after {background-image: linear-gradient(0deg,transparent,var(--mc));}
+
+.button-F9qN4n.focused-3ZzkKr {box-shadow: 0 0 0 2px var(--mc);}
+
+.colorDefault-2K3EoJ .checkbox-3s5GYZ, .colorDefault-2K3EoJ .radioSelection-1HmrQS {color: var(--mc);}
+
+.colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) {background-color: var(--hc);}
+
+.labelForward-1wfipV {padding-right; 170px;}
+
+.unreadMentionsIndicatorTop-gA6RCh {
+    top: 46px;
+    border-top: 2px solid var(--mc);
+}
+
+.listItem-2P_4kh:nth-child(1) {margin-top: 0px;}
+
+.wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN {padding-top: 0px !important;}
+
+.channelTextArea-2VhZ6z.highlighted-2eSV1B, .keyboard-mode .channelTextArea-2VhZ6z.focused-PMHa7m {box-shadow: 0 0 0 4px var(--mc)}
+
+.colorBrand-ROmMP1 {color: var(--mc);}
+
+.header-ykumBX {background-color: var(--QT);}
+
+.container-enaOkj {background-color: var(--QTD);}
+
+.channelHeader-3Gd2xq {background-color: var(--QT);}
+
+.messageContainer-gbhlwo {background-color: var(--QTD);}
+
+.contentWrapper-SvZHNd {background-color: var(--QT);}
+
+.wrapper-2Gsate {background-color: var(--QT);}
+
+.wrapper-1-Fsb8 {background-color: var(--QTD);}
+
+.navButtonActive-1MkytQ {background-color: var(--mc);}
+
+.emojiItem-14v6tW.emojiItemSelected-1aLkfV {background-color: var(--hc);}
+
+.theme-dark .form-2fGMdU:before {display: none;}
+
+.messages-3G3erD {background-color: var(--QT);}
