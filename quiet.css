@@ -6902,3 +6902,15 @@ textarea {background: var(--QT);}
 .theme-dark .form-2fGMdU:before {display: none;}
 
 .messages-3G3erD {background-color: var(--QT);}
+
+.theme-dark .footer-2gL1pp {background-color: var(--QT);}
+
+.keyboard-mode .message-2qnXI6:focus:after {box-shadow: 0 0 0 4px var(--mc);}
+
+.keyboard-mode .channel-2QD9_O:focus:after {box-shadow: 0 0 0 4px var(--mc);}
+
+.keyboard-mode .wrapper-CU3qI5:focus:after {box-shadow: 0 0 0 4px var(--mc);}
+
+.keyboard-mode .wrapper-1ucjTd:focus .content-3at_AU:after {box-shadow: 0 0 0 4px var(--mc);}
+
+.keyboard-mode .focusStroke-1ApElc {fill: var(--mc);stroke: var(--mc);stroke-width: 8px;}
