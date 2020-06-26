@@ -5086,7 +5086,7 @@ div[class*="titleBar-"] div:nth-of-type(4) {
 
 .isMentioned-N-h9aa:hover { background-color: var(--hc);}
 
-.unreadMentionsIndicatorTop-gA6RCh { top: 48px;}
+.unreadMentionsIndicatorTop-gA6RCh { top: 46px;}
 
 .bd-toast { background: var(--mc);}
 
@@ -6421,7 +6421,7 @@ foreignObject { mask: none; -webkit-mask: none;overflow: hidden;border-radius: v
 
 .flowerStar-1GeTsn {color: var(--mc);}
 
-.listItem-2P_4kh:nth-child(1){margin-top: 10px;}
+.listItem-2P_4kh:nth-child(1){margin-top: 0px;}
 
 .theme-dark .partyMemberOverflow-1tfvpb, .theme-dark .voiceSectionIconWrapper-ho9Alz {color: #fff;background-color: var(--mc);}
 
@@ -6866,12 +6866,9 @@ textarea {background: var(--QT);}
 
 .colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) {background-color: var(--hc);}
 
-.labelForward-1wfipV {padding-right; 170px;}
+.labelForward-1wfipV {padding-left: 30px; position: absolute;}
 
-.unreadMentionsIndicatorTop-gA6RCh {
-    top: 46px;
-    border-top: 2px solid var(--mc);
-}
+.unreadMentionsIndicatorTop-gA6RCh {top: 46px; border-top: 2px solid var(--mc);}
 
 .listItem-2P_4kh:nth-child(1) {margin-top: 0px;}
 
