@@ -6552,7 +6552,7 @@ border: 1px solid var(--hc) !important;border-left-color: var(--hc) !important;b
 
 .theme-dark .item-1GzJrl:hover {background-color: var(--QTD);}
 
-.theme-dark .side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover, .theme-dark .topPill-30KHOu .themed-OHr7kt.item-PXvHYJ:hover {background-color: var(--QTD);}
+.theme-dark .side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover, .theme-dark .topPill-30KHOu .themed-OHr7kt.item-PXvHYJ:hover {background-color: var(--QTD);border-left: 2px solid var(--mc);border-right: 2px solid var(--mc);}
 
 .theme-dark .focused-1En8bG:after, .theme-dark .result-3w1ZcL:hover:after {box-shadow: inset 0 0 0 2px var(--mc), inset 0 0 0 3px #2f3136;}
 
@@ -6912,7 +6912,7 @@ textarea {background: var(--QT);}
 
 .scroller-1Bvpku {background-color: var(--QT);}
 
-.modeSelected-346R90 .content-1x5b-n, .modeSelected-346R90:hover .content-1x5b-n {background-color: var(--QTD);border: 2px solid var(--mc);}
+.modeSelected-346R90 .content-1x5b-n, .modeSelected-346R90:hover .content-1x5b-n {background-color: var(--QTD);border-left: 2px solid var(--mc);border-right: 2px solid var(--mc);}
 
 .clickable-1JJAn8:hover .layout-2DM8Md {background-color: var(--QTD);}
 
